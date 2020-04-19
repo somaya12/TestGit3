@@ -1,0 +1,2 @@
+file2 
+another line in file 2 
